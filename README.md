@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amarnath!
 ================================================================================================================================
 
-Full-Stack developer.
+Graduate Software Engineer.
 ---------------------
 
-I'm a full-stack developer with a love for building creative, user-centric applications from the ground up. Whether it’s crafting intuitive front-end interfaces or architecting robust back-end systems, I’m always excited to tackle new challenges and bring ideas to life through code. 🚀
+I'm a graduate software engineer with a love for building creative, user-centric applications from the ground up. Whether it’s crafting intuitive front-end interfaces or architecting robust back-end systems, I’m always excited to tackle new challenges and bring ideas to life through code. 🚀
 
 
 * 🌍  I'm based in Bangalore, India.
-* 🧠  I'm learning Docker, Websokets, Webcontainers, React Native, CI/CD, Learning Test Driven Development.
-* 🤝  I'm open to collaborating on AI integrated web apps and Fin Tech projects.
+* 🧠  I'm learning Ocaml, Docker, Websokets, Webcontainers, React Native, CI/CD, Learning Test Driven Development.
+
 
 ### ✨ Why I Code:
 For me, coding is more than just solving problems—it's a way to bring ideas to life and make a positive impact. Every new project is an opportunity to learn, experiment, and create something meaningful. My goal is to write clean, efficient, and maintainable code while continuously pushing the boundaries of what I can achieve.
