@@ -7,8 +7,9 @@ Graduate Software Engineer.
 I'm a graduate software engineer with a love for building creative, user-centric applications from the ground up. Whether it’s crafting intuitive front-end interfaces or architecting robust back-end systems, I’m always excited to tackle new challenges and bring ideas to life through code. 🚀
 
 
-* 🌍  I'm based in Bangalore, India.
-* 🧠  I'm learning Ocaml, Docker, Websokets, Webcontainers, React Native, CI/CD, Learning Test Driven Development.
+* 🎓 2024 Software Engineer | Bangalore 
+* 🔍 I build trading bots, order matching engines, and a OCaml toy interpreter.
+* 🚀 Goals: SWE in functional systems, algorithms, and correctness-first software.
 
 
 ### ✨ Why I Code:
